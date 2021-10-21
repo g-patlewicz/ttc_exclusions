@@ -1,7 +1,7 @@
 ttc_exclusions
 ==============================
 
-Investigation of the feasibility of refining exclusion rules within the Kroes et al (2004) workflow for TTC.
+Investigation of the feasibility of refining exclusion rules within the Kroes et al (2004) workflow for TTC. This code repository supports the manuscript  " Patlewicz G, Nelms M, Rua D. Evaluating the utility of the Threshold of Toxicological Concern (TTC) and its exclusions in the safety assessment of extractable substances from medical devices."
 
 Project Organization
 ------------
