@@ -1,9 +1,11 @@
 ttc_exclusions
 ==============================
 
-Investigation of the feasibility of refining exclusion rules within the Kroes et al (2004) workflow for TTC. This code repository supports the manuscript  "Patlewicz G, Nelms M, Rua D. Evaluating the utility of the Threshold of Toxicological Concern (TTC) and its exclusions in the biocompatibility assessment of extractable chemical substances from medical devices. Computational Toxicology, 2022, in press https://doi.org/10.1016/j.comtox.2022.100246". Data files available at "https://gaftp.epa.gov/comptox/CCTE_Publication_Data/CCED_Publication_Data/PatlewiczGrace/"
+Investigation of the feasibility of refining exclusion rules within the Kroes et al (2004) workflow for TTC. This code repository supports the manuscript  "Patlewicz G, Nelms M, Rua D. Evaluating the utility of the Threshold of Toxicological Concern (TTC) and its exclusions in the biocompatibility assessment of extractable chemical substances from medical devices. Computational Toxicology, 2022, in press https://doi.org/10.1016/j.comtox.2022.100246". Data files available at "doi.org/10.23645/epacomptox.21215354"
 
-Project Organization
+To use the notebooks, clone the repo, then manually insert the relevant data files based on the project organisation shown below. Data files are provided doi link above and are supplied as a compressed tar file.  
+
+Project Organisation
 ------------
 
     ├── LICENSE
